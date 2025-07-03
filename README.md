@@ -9,7 +9,6 @@ Machine learning trading system for ES futures contracts.
 - Fetches 252+ trading days of historical data
 
 ## Sample Output
-
 Fetched 252 rows of data
 Date range: 2024-07-02 00:00:00-04:00 to 2025-07-02 00:00:00-04:00
                               Open     High      Low    Close   Volume  Dividends  Stock Splits

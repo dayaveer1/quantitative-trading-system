@@ -28,11 +28,13 @@ Date                      Open      High      Low       Close     Volume    Divi
 Current ES price: $6275.50
 
 ## Next Version: v0.2
-- Database storage system
-- Technical indicators (RSI, MACD, Bollinger Bands)
+- Markov Chain strategy
+- Multi-timeframe analysis
+- Real-time execution
+- Risk management
 
 ## Project Timeline
+- Database storage system
 - ML price prediction models
-- Risk management framework
 - Backtesting engine
 - Performance analytics
